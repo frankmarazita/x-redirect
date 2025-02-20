@@ -22,4 +22,10 @@ The notifications system I have setup can send notifications of all different ty
 
 ---
 
+### References
+
+- [https://github.com/alanzchen/x-redirect](https://github.com/alanzchen/x-redirect)
+- [https://github.com/ewerx/x-redirect/](https://github.com/ewerx/x-redirect/)
+- [https://forum.obsidian.md/t/link-from-external-location-to-an-obsidian-note/58151](https://forum.obsidian.md/t/link-from-external-location-to-an-obsidian-note/58151)
+
 **_Note: This code is based off of [https://github.com/ewerx/x-redirect/](https://github.com/ewerx/x-redirect/)_**
