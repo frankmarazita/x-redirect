@@ -6,8 +6,7 @@ The redirect can be accessed at [https://frankmarazita.github.io/x-redirect/](ht
 
 ### Usage
 
-To use the redirect, simply append the custom url scheme to the end of the url. For example, to redirect to `obsidian://open?vault=Obsidian&file=TODO`, the url would be `
-[https://frankmarazita.github.io/x-redirect/?obsidian://open?vault=Obsidian&file=TODO](https://frankmarazita.github.io/x-redirect/?obsidian://open?vault=Obsidian&file=TODO).
+To use the redirect, simply append the custom url scheme to the end of the url. For example, to redirect to `obsidian://open?vault=Obsidian&file=TODO`, the url would be [https://frankmarazita.github.io/x-redirect/?obsidian://open?vault=Obsidian&file=TODO](https://frankmarazita.github.io/x-redirect/?obsidian://open?vault=Obsidian&file=TODO).
 
 ---
 
